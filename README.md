@@ -1,1 +1,3 @@
-# Kogane.SceneReloader
+# Kogane Scene Reloader
+
+現在のシーンをリロードするためのクラス
